@@ -1,0 +1,15 @@
+/home/bengi/NetBeansProjects/peluqueriaGatuna/src/main/java/com/mycompany/peluqueriagatuna/igu/JOptionPane.java
+/home/bengi/NetBeansProjects/peluqueriaGatuna/src/main/java/com/mycompany/peluqueriagatuna/logica/Duenio.java
+/home/bengi/NetBeansProjects/peluqueriaGatuna/src/main/java/com/mycompany/peluqueriagatuna/igu/VerDatos.java
+/home/bengi/NetBeansProjects/peluqueriaGatuna/src/main/java/com/mycompany/peluqueriagatuna/igu/CargadeDatos.java
+/home/bengi/NetBeansProjects/peluqueriaGatuna/src/main/java/com/mycompany/peluqueriagatuna/persistencia/exceptions/PreexistingEntityException.java
+/home/bengi/NetBeansProjects/peluqueriaGatuna/src/main/java/com/mycompany/peluqueriagatuna/persistencia/exceptions/IllegalOrphanException.java
+/home/bengi/NetBeansProjects/peluqueriaGatuna/src/main/java/com/mycompany/peluqueriagatuna/persistencia/MascotaJpaController.java
+/home/bengi/NetBeansProjects/peluqueriaGatuna/src/main/java/com/mycompany/peluqueriagatuna/PeluqueriaGatuna.java
+/home/bengi/NetBeansProjects/peluqueriaGatuna/src/main/java/com/mycompany/peluqueriagatuna/igu/Main.java
+/home/bengi/NetBeansProjects/peluqueriaGatuna/src/main/java/com/mycompany/peluqueriagatuna/igu/ModificarDatos.java
+/home/bengi/NetBeansProjects/peluqueriaGatuna/src/main/java/com/mycompany/peluqueriagatuna/persistencia/DuenioJpaController.java
+/home/bengi/NetBeansProjects/peluqueriaGatuna/src/main/java/com/mycompany/peluqueriagatuna/logica/Mascota.java
+/home/bengi/NetBeansProjects/peluqueriaGatuna/src/main/java/com/mycompany/peluqueriagatuna/persistencia/ControladoraPersistencia.java
+/home/bengi/NetBeansProjects/peluqueriaGatuna/src/main/java/com/mycompany/peluqueriagatuna/persistencia/exceptions/NonexistentEntityException.java
+/home/bengi/NetBeansProjects/peluqueriaGatuna/src/main/java/com/mycompany/peluqueriagatuna/logica/Controladora.java
